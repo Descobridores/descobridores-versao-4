@@ -39,7 +39,7 @@ body {
 .content_inner {
   height: 50%;
   overflow-y: auto;
-  background: url('../assets/img/Capa.png');
+  background: url('../assets/img/Capa.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
 }
