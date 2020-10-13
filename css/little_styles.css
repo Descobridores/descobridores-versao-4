@@ -39,9 +39,6 @@ body {
 .content_inner {
   height: 50%;
   overflow-y: auto;
-  background: url('../assets/img/Capa.jpg');
-  background-repeat: no-repeat;
-  background-attachment: scroll;
 }
 
 /* basically all styling from now on */
